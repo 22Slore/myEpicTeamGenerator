@@ -1,0 +1,19 @@
+{
+  "name": "module10challenge",
+  "version": "1.0.0",
+  "description": "USER STORY:\r AS A manager\r I WANT to generate a webpage that displays my team's basic info\r SO THAT I have quick access to their emails and GitHub profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -w --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "jest": "^29.4.2"
+  }
+}
